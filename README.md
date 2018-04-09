@@ -1,7 +1,8 @@
 # ESP8266-Temperature-Reader-Thermostat
 Arduino skecth To set Up an ESP8266 to get temperature with a DHT22, this is implemented with the follow sketch
 https://github.com/SaMuELToLoKo/ESP8266-homebridge-advanced-thermostat.git
-to get full working your Thermostat based in the plugin homebridge-advanced-thermostat. You can find it here.
+
+To get full working your Thermostat based in the plugin homebridge-advanced-thermostat. You can find it here.
 https://github.com/SaMuELToLoKo/homebridge-advanced-thermostat.git
 
 With this three complements you can build a complete wireless thermostate.
